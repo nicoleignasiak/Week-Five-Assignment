@@ -1,3 +1,6 @@
+# Nicole Ignasiak
+# 10/7/15
+# CIS 125 82A
 #!/usr/bin/env python
 # encoding: utf-8
 """
